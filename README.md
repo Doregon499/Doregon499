@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Doregon499
+- 👀 I’m interested in AI, image processing
+- 🌱 I’m currently studing electrical engenieering
