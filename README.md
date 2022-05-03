@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Doregon499
+- 👋 Hey it's me
 - 👀 I’m interested in AI, image processing
-- 🌱 I’m currently studing electrical engenieering
+- 🌱 I’m studing electrical engenieering
+- 🔭 I’m currently studyng Python for IA and data analysis 
